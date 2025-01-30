@@ -32,7 +32,7 @@ O esquema do banco de dados é composto pelas seguintes tabelas:
 * OS_Peça: Tabela de junção entre as tabelas Ordem_Servico e Peça.
 
 ## Diagrama do Banco de Dados
-O diagrama do banco de dados pode ser visualizado na imagem "diagrama_banco_de_dados.png".
+O diagrama do banco de dados pode ser visualizado na imagem [Modelo](https://github.com/siqueirago/Projeto-Oficina-Mecanica/blob/main/Modelo%20ER.png).
 
 ## Como Executar o Projeto
 * Clone o repositório.
